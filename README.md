@@ -8,8 +8,7 @@ This is a mini React project built as part of "The Ultimate React Course 2025" b
 - Responsive and clean design
 
 ## 🚀 Getting Started
-
-1. Clone the repo:
+Clone the repo: https://github.com/Iamvikas17/Travel-list.git
 
 
 
