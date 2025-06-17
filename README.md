@@ -1,3 +1,18 @@
+# 🌍 Travel List App
+
+This is a mini React project built as part of "The Ultimate React Course 2025" by Jonas Schmedtmann on Udemy.
+
+## ✨ Features
+- Built with React
+- Uses props to display dynamic travel items
+- Responsive and clean design
+
+## 🚀 Getting Started
+
+1. Clone the repo:
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
